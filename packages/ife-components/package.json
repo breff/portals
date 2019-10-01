@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Bref Murdoch",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "f9b99ec616b11607820ba08a1e596dbd2f72a111",
+  "publishConfig": {
+    "access": "public"
+  }
 }
